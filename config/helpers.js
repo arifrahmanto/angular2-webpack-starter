@@ -1,5 +1,5 @@
 /**
- * @author: @AngularClass
+ * @author: @IRDevelopers
  */
 var path = require('path');
 

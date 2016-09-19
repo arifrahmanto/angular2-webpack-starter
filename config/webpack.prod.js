@@ -1,5 +1,5 @@
 /**
- * @author: @AngularClass
+ * @author: @IRDevelopers
  */
 
 const helpers = require('./helpers');

@@ -1,5 +1,5 @@
 /**
- * @author: @AngularClass
+ * @author: @IRDevelopers
  */
 
 const webpack = require('webpack');
@@ -21,7 +21,7 @@ const ContextReplacementPlugin = require('webpack/lib/ContextReplacementPlugin')
  */
 const HMR = helpers.hasProcessFlag('hot');
 const METADATA = {
-  title: 'Angular2 Webpack Starter by @gdi2290 from @AngularClass',
+  title: 'IR TS3 featuring Angular 2',
   baseUrl: '/',
   isDevServer: helpers.isWebpackDevServer()
 };
