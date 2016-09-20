@@ -1,4 +1,4 @@
-### Quick start
+# Quick start
 **Make sure you have Node version >= 5.0 and NPM >= 3**
 > Clone/Download the repo then edit `app.ts` inside [`/src/app/app.ts`](/src/app/app.ts)
 
@@ -31,7 +31,6 @@ go to [http://0.0.0.0:3000](http://0.0.0.0:3000) or [http://localhost:3000](http
     * [Installing](#installing)
     * [Running the app](#running-the-app)
 * [Configuration](#configuration)
-* [Contributing](#contributing)
 * [TypeScript](#typescript)
 * [@Types](#types)
 
@@ -168,9 +167,6 @@ npm run build:docker
 
 # Configuration
 Configuration files live in `config/` we are currently using webpack, karma, and protractor for different stages of your application
-
-# Contributing
-You can include more examples as components but they must introduce a new concept such as `Home` component (separate folders), and Todo (services). I'll accept pretty much everything so feel free to open a Pull-Request
 
 # TypeScript
 > To take full advantage of TypeScript with autocomplete you would have to install it globally and use an editor with the correct TypeScript plugins.
